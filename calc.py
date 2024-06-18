@@ -47,4 +47,4 @@ while True:
         result = num ** 2
         print("Square:", result)
     else:
-        print("Unknown input, please enter one of 'add', 'subtract', 'multiply', 'divide', 'gcd', 'square', or 'quit'")
+        print("Wrong input, please enter one of 'add', 'subtract', 'multiply', 'divide', 'gcd', 'square', or 'quit'")
