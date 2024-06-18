@@ -18,10 +18,10 @@ while True:
         num1 = float(input("Enter first number: "))
         num2 = float(input("Enter second number: "))
         result = num1 + num2
-        print("Result:", result)
+        print("Result:", result)git statu
     elif user_input == "subtract":
-        num1 = float(input("Enter first number: "))
-        num2 = float(input("Enter second number: "))
+        num1 = float(input("Enter 1st number: "))
+        num2 = float(input("Enter 2nd number: "))
         result = num1 - num2
         print("Result:", result)
     elif user_input == "multiply":
